@@ -1,6 +1,6 @@
 
 # Scala practice
 ---
-- scala syntax 
-- my conclusions
-- prepare for Spark ：P
+- Scala Syntax 
+- My Conclusions
+- Prepare for Spark ：P
